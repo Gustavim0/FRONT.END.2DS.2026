@@ -24,6 +24,13 @@ body{
     border: 1px solid red;
     background-color: white;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-
+img {
+    width: 75%;
+    height: auto;
+    border: 3px solid black;
 }
